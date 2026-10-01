@@ -3,7 +3,7 @@
   <p><b>Estudiante de 10° grado | Media Técnica de Ingeniería en Sistemas | Apasionado por C++</b></p>
   
   <p>
-    ¡Bienvenido a mi perfil de GitHub! Actualmente estudio en el <b>Colegio Parroquial Nuestra Señora de Chiquinquira</b> (Antioquia), explorando la lógica de programación, algoritmos y el desarrollo de software.
+    ¡Bienvenido a mi perfil de GitHub! Actualmente estudio en el <b>Colegio Parroquial Nuestra Señora de Chiquinquirá</b> (Bello, Antioquia), apasionado por la tecnología y el aprendizaje.
   </p>
 </div>
 
