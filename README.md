@@ -20,17 +20,10 @@
 <h2>Lenguajes y Herramientas</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-</p>
 
-<details>
-  <summary><b>Mis proyectos y prácticas en C++</b></summary>
-  <br />
-  <p>Aquí iré subiendo poco a poco mis ejercicios de clase, algoritmos, retos lógicos y pequeños programas de consola desarrollados durante mi media técnica.</p>
-</details>
+</p
 
-<hr />
+
 
 
